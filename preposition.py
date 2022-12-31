@@ -1,4 +1,4 @@
-prepositions in the captions with randomly selected substitutes.
+#Substitute prepositions in the captions with randomly selected substitutes.
 # The captions are processed using the Spacy library, and noun phrases in the captions are detected using a custom function.
 # The preposition substitution is performed using a dictionary of substitutes.
 # Input:
